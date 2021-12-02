@@ -14,7 +14,7 @@ describe("q1", () => {
   });
 });
 
-describe.only("q2", () => {
+describe("q2", () => {
   it("will work", () => {
     const data = [
       "forward 5",
